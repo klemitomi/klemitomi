@@ -6,7 +6,7 @@
 # 👋 Hi, I'm Thomas Klement — Frontend Developer
 
 💻 I build **modern, clean and responsive user interfaces**  
-🚀 Specialized in **React** and **Angular** and *Wordpress*
+🚀 Specialized in **React** and **Angular** and **Wordpress**
 🎯 Focused on performance, usability and clean code  
 💼 Freelance frontend developer for small businesses  
 
